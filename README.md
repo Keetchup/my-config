@@ -2,16 +2,19 @@
 
 ## [Oh My Posh](https://ohmyposh.dev)
 
-Install steps [https://ohmyposh.dev/docs/installation/windows](https://ohmyposh.dev/docs/installation/windows)
+### Microsoft.PowerShell_profile.ps1
+
+`$PROFILE`
 
 ## [psmux](https://github.com/psmux/psmux)
 
+### .psmux.conf
+
 `~\.psmux.conf`
 
-Install plugins: Prefix + I
-Reload config: Prefix + R
+## [Neovim](https://neovim.io/)
 
-## Neovim
+### nvim
 
 `%APPDATA%\Local\nvim`
 
@@ -23,13 +26,23 @@ Install using distro package manager
 
 ## [Oh My Zsh](https://ohmyz.sh/)
 
+### .zshrc
+
 `~/.zshrc`
 
-## tmux
+## [tmux](https://tmux.app/)
+
+### .tmux.conf
 
 `~/.tmux.conf`
 
 ## [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 
 Install per documentation
+
+## [Neovim](https://neovim.io/)
+
+### nvim
+
+`~/.config/nvim`
 
