@@ -2,7 +2,7 @@
 
 ## [Oh My Posh](https://ohmyposh.dev)
 
-Install steps [](https://ohmyposh.dev/docs/installation/windows
+Install steps [](https://ohmyposh.dev/docs/installation/windows)
 
 ## [psmux](https://github.com/psmux/psmux)
 
